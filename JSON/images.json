@@ -1,0 +1,48 @@
+[
+    {
+      "src": "img/me.webp",
+      "alt": "me",
+      "caption": "This is my photo for showcase"
+    },
+    {
+        "src": "img/gym.jpg",
+        "alt": "gym image",
+        "caption": "This is the gym image"
+    },
+    {
+        "src": "img/playing.jpg",
+        "alt": "playstation",
+        "caption": "This is the playstation"
+    },
+    {
+        "src": "img/team.jpg",
+        "alt": "people",
+        "caption": "This is photo of the people"
+    },
+    {
+        "src": "img/nature1.webp",
+        "alt": "nature",
+        "caption": "This is the photo of nature"
+      },
+      {
+          "src": "img/nature2.webp",
+          "alt": "nature",
+          "caption": "This is photo of nature"
+      },
+      {
+          "src": "img/nature3.webp",
+          "alt": "nature",
+          "caption": "This is photo of nature"
+      },
+      {
+          "src": "img/contact-img1.webp",
+          "alt": "contact",
+          "caption": "This is photo of people"
+      },
+      {
+        "src": "img/contact-img2.webp",
+        "alt": "contact",
+        "caption": "This is photo of people"
+    }     
+  ]
+  
